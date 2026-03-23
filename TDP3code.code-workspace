@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "TDPcode",
+			"path": "../../Documents/PlatformIO/Projects/TDPcode"
+		}
+	],
+	"settings": {}
+}
